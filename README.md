@@ -9,7 +9,7 @@ Aplicação desenvolvida utilizando Next.js, TailwindCSS e a biblioteca de compo
 ## Fórmula utilizada
 
 ```latex
-Média = (T * 0,3) + (((Prova Intermediária + Prova Semestral) / 2) * 0,7)
+Média = (Trabalho * 0,3) + (((Prova Intermediária + Prova Semestral) / 2) * 0,7)
 ```
 
 ## Demo
